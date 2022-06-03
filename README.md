@@ -18,6 +18,6 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 - computer science
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/anuraghazra/github-readme-stats) <br/> <br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/JmKanmo) <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JmKanmo&langs_count=20&layout=compact&theme=dark)](https://github.com/JmKanmo/JmKanmo) </br> </br>
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nebi25)](https://solved.ac/nebi25)
