@@ -10,11 +10,12 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 
 접했거나 관심 있는 기술 스택
 - JAVA, Kotlin, Python, nodejs
+- Web, android
 - HTML5, CSS3, vanilajs  
 - Spring(Spring Boot,Spring cloud), netty 
 -  RDB(MySQL,Maria DB, PG), nosql(redis)
 - jenkins, docker, k8s, AWS, Kafka 
-- network, computer science
+- computer science
 
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/anuraghazra/github-readme-stats)
