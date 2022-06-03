@@ -8,7 +8,7 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 이력서 :point_right:
 [JmKanmo resume](https://www.notion.so/a582cb13a4ee4cba8b45b43f1243f91e) <br/>
 
-접했거나 관심 있는 기술 스택
+#### Interested | Used Skill Stack
 - JAVA, Kotlin, Python, nodejs
 - Web, android
 - HTML5, CSS3, vanilajs  
@@ -18,4 +18,5 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 - computer science
 
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/anuraghazra/github-readme-stats) <br/> <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JmKanmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
