@@ -9,13 +9,12 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 [JmKanmo resume](https://www.notion.so/a582cb13a4ee4cba8b45b43f1243f91e) <br/>
 
 #### Interested | Used Skill Stack
-- JAVA, Kotlin, Python, nodejs
+- JAVA, Kotlin, Python, nodejs, Go
 - Web, android
-- HTML5, CSS3, vanilajs  
-- Spring(Spring Boot,Spring cloud), netty 
--  RDB(MySQL,Maria DB, PG), nosql(redis)
+- HTML5, CSS3, es6js, react  
+- Spring Boot, Spring cloud, netty 
+- RDB(MySQL, Oracle, Postgres), nosql(redis)
 - jenkins, docker, k8s, AWS, Kafka 
-- computer science
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/JmKanmo) <br/> <br/>
