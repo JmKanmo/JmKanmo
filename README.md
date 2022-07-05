@@ -1,5 +1,5 @@
 ### 성장과 꾸준함을 추구하는 개발자 강준모 입니다👋
-JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 개발 및 유지보수 관련 백엔드, 클라우드, DevOps 기술에 관심을 갖고 꾸준히 학습하며 즐기고 있습니다.
+JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 개발, 클라우드, DevOps 관련 기술에 관심을 갖고 학습 합니다.
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apdh1709@gmail.com)](mailto:apdh1709@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junmo0701/)](https://www.linkedin.com/in/junmo0701/)
