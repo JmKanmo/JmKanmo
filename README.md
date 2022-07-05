@@ -1,4 +1,4 @@
-### 어제보다 나은 오늘, 성장과 꾸준함을 추구하는 개발자 강준모 입니다👋
+### 성장과 꾸준함을 추구하는 개발자 강준모 입니다👋
 JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 개발 및 유지보수 관련 백엔드, 클라우드, DevOps 기술에 관심을 갖고 꾸준히 학습하며 즐기고 있습니다.
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apdh1709@gmail.com)](mailto:apdh1709@gmail.com)
@@ -8,13 +8,13 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 이력서 :point_right:
 [JmKanmo resume](https://www.notion.so/a582cb13a4ee4cba8b45b43f1243f91e) <br/>
 
-#### Interested | Used Skill Stack
+#### Interested | Used Skills
 - JAVA, Kotlin, Python, nodejs, Go
-- Web, android
 - HTML5, CSS3, es6js, react  
-- Spring Boot, Spring cloud, netty 
+- Web, android
+- Spring, netty 
 - RDB(MySQL, Oracle, Postgres), nosql(redis)
-- jenkins, docker, k8s, AWS, Kafka 
+- linux, jenkins, docker, k8s, AWS, Kafka 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmKanmo)](https://github.com/JmKanmo) <br/> <br/>
