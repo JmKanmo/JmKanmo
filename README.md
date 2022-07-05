@@ -10,7 +10,7 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
 
 #### Interested | Used Skills
 - JAVA, Kotlin, Python, nodejs, Go
-- HTML5, CSS3, es6js, react  
+- HTML5, CSS3, vanilaJs, react  
 - Web, android
 - Spring, netty 
 - RDB(MySQL, Oracle, Postgres), nosql(redis)
