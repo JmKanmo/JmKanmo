@@ -6,14 +6,13 @@ JAVA 언어를 주로 사용하며 웹/모바일 서비스 애플리케이션 �
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100021337733179)](https://www.facebook.com/profile.php?id=100021337733179) <br/>
  
 이력서 :point_right:
-[JmKanmo resume](https://www.notion.so/a582cb13a4ee4cba8b45b43f1243f91e) <br/>
+[resume](https://www.notion.so/a582cb13a4ee4cba8b45b43f1243f91e) <br/>
 
 #### Interested | Used Skills
 - JAVA, Kotlin, Python, nodejs, Go
-- HTML5, CSS3, vanilaJs, react  
-- Web, android
-- Spring, netty 
-- RDB(MySQL, Oracle, Postgres), nosql(redis)
+- Spring, netty
+- Web, android 
+- RDB(MySQL, Oracle, Postgres), nosql(redis. mongodb)
 - linux, jenkins, docker, k8s, AWS, Kafka 
 
 
